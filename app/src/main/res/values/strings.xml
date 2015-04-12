@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ListViewExample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_story1">The wolf and the lamb</string>
+    <string name="title_activity_splash">splash</string>
+    <string name="title_activity_story2">The man and the serpent</string>
+    <string name="title_activity_story3">The Sick Lion</string>
+    <string name="title_activity_story4">The swallow and the other birds</string>
+    <string name="title_activity_story5">The Mountains in Labor</string>
+    <string name="title_activity_story6">The Hares and the Frogs</string>
+    <string name="title_activity_story7">The Woodman and the serpent</string>
+    <string name="title_activity_story8">The frog and the ox</string>
+    <string name="title_activity_story9">The hart and the hunter</string>
+    <string name="title_activity_story10">The tree and the reed</string>
+</resources>
